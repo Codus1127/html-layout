@@ -1,0 +1,63 @@
+.boxOne {
+    width: 100%;
+    border: 10px solid black;
+    padding: 10px;
+    box-sizing: border-box;
+}
+
+.boxTwo {
+    height: 200px;
+    width: 75px;
+    background: purple;
+    display: inline-block;
+}
+
+.boxThree {
+    height: 300px;
+    width: 500px;
+    display: inline-block;
+    background-color: green;
+    margin: 0 30px;
+
+}
+
+.circleOne {
+    width: 200px;
+    height: 200px;
+    display: inline-block;
+    background-color: lightblue;
+    border-radius: 50%;
+    padding: 20px;
+    margin: 30px;
+}
+
+.dotBox {
+    width: 100%;
+    border: 10px dotted black;
+    padding: 25px;
+    box-sizing: border-box;
+    margin: 25px;
+}
+
+.shadowBox {
+    width: 100%;
+    height: 250px;
+    background-color: lightyellow;
+    box-shadow: 10px 10px 5px grey;
+}
+
+.greetingBox {
+    width: 25%;
+    border: 2px solid lightgrey;
+    background-color: white;
+    padding: 150px;
+    margin: 50px auto;
+    box-shadow: 2px 2px 2px lightgrey;
+}
+
+.helloFriends {
+    width: 100%;
+    text-align: center;
+    color: darkblue;
+    letter-spacing: 10px;
+}
